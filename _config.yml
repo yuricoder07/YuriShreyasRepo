@@ -2,10 +2,10 @@ title: Pair Blog and Projects
 description: "APCSA Tri 1 Partner"
 owner_name: Yuri and Shreyas Pair Blog
 github_username: nighthawkcoders
-remote_theme: pages-themes/midnight@v0.2.0
+#remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
-# remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
